@@ -11,10 +11,10 @@ KE3050 Keyes IOT ESP32智能家居套件
    docs/在线课程视频
    docs/ESP32智能家居组装
    docs/KEYES ESP32 PLUS开发板介绍
-   Arduino/Arduino 教程
-   Mixly/Mixly 教程
-   KidsBlock(Scratch)/Scratch 教程
-   Python/Python 教程
+   docs/Arduino 教程
+   docs/Mixly 教程
+   docs/Scratch 教程
+   docs/Python 教程
    docs/APP下载和使用说明
 
 
