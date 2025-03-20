@@ -4,7 +4,7 @@ KE3050 Keyes IOT ESP32智能家居套件
    :maxdepth: 2
 
 
-   docs/APP下载和使用说明
+   docs/Scratch 教程/Scratch 教程
 
 
 
