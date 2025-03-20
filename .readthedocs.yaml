@@ -11,6 +11,8 @@ build:
     python: "3.13"
   latexmk:
     use_xelatex:true
+  apt_packages:
+    - fonts-wqy-zenhei    
 
 # Build documentation in the "docs/" directory with Sphinx
 sphinx:
