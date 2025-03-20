@@ -4,7 +4,7 @@ KE3050 Keyes IOT ESP32智能家居套件
    :maxdepth: 2
 
 
-   docs/Mixly 教程/Mixly 教程
+   docs/Python 教程/Python 教程
 
 
 
